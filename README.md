@@ -1,5 +1,8 @@
 # food-linebot #
 
+## 參考資料
+https://github.com/mikeku1116/food-linebot
+
 ## 專案介紹 ##
 
 本專案使用Python物件導向的多型(Polymorphism)概念，來開發美食餐廳LINE Bot，透過按鈕樣板訊息(Buttons template message)對談的方式瞭解使用者所要尋找的餐廳條件(地區、美食分類、平均消費價格)後，利用Python網頁爬蟲取得目前正在營業的五間最高人氣餐廳資料，回覆給使用者作為參考，可以搭配[[LINE Bot教學]提升使用者體驗的按鈕樣板訊息(Buttons template message)實用技巧](https://www.learncodewithmike.com/2020/07/line-bot-buttons-template-message.html)部落格文章來進行學習。
